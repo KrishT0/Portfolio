@@ -1,3 +1,3 @@
-# PORTFOLIo
+# PORTFOLIO
  
 ![](IMG/hue.png)
